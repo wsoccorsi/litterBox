@@ -22,7 +22,7 @@ $app->get('/hello[/{name}]', function (Request $request, Response $response) {
     $name = $request->getAttribute('name');
     if ($name) {
       $processedName = $this->processor->process($name);
-      $response->getBody()->write("Aloha, $processedName!");
+      $response->getBody()->write("Hello, $processedName!");
     } else {
       $response->getBody()->write("Sorry, we haven't been introduced yet.");    
     }
