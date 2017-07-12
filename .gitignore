@@ -1,0 +1,5 @@
+vendor/*
+manifest.yml
+composer.phar
+composer.lock
+*.*~
