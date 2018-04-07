@@ -13,6 +13,11 @@
     
     <body>
         <p>This is the beginning of a great lost and found project.</p>
+        <ol>
+            <li><a href="lost.php">lost.php</a></li>
+            <li><a href="found.php">found.php</a></li>
+            <li><a href="about.php">about.php</a></li>
+        </OL>
     </body>
 </html>
 
