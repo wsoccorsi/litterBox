@@ -1,0 +1,28 @@
+
+/* 
+    Created on : Feb 3, 2017, 8:47:51 AM
+    Author     : williamsoccorsi
+*/
+
+/* 
+    CSS for lab 2 and lab 3
+*/
+
+body {
+    }
+
+p {
+    font-family: "Comic Sans MS","Arial"; }
+
+h1 {
+    font-family: "Comic Sans MS", "Arial";
+    background-color: green;
+    color: #8c2f6b;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+   
+}  
+
+ 
