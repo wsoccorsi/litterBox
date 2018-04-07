@@ -2,5 +2,6 @@
     "WEB_SERVER": "httpd",
     "COMPOSER_VENDOR_DIR": "vendor",
     "WEBDIR": "public",
-    "PHP_VERSION": "{PHP_56_LATEST}"
+    "PHP_VERSION": "{PHP_56_LATEST}",
+    "APP_START_CMD": "home.php"
 }
