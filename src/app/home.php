@@ -5,6 +5,21 @@
 
 <html lang="en">
 <head>
+<h1> LOST AND FOUND 
+    <img src="uvmimage.png" alt="Mountain View">
+</h1>
+
+<div class="sitetitlebottom">
+
+                   <ul>
+    <li><a href="Lost ">lost</a></li>
+    <li><a href="">found</a></li>
+    <li><a href="about.php">about</a></li>
+  </ul>
+
+
+                </div>
+
   <title>litterBox</title>
   <meta charset="utf-8">
   <meta name="author" content="Codefest Team 7">
@@ -17,11 +32,7 @@
 </head>
 <body>
  
-  <ol>
-    <li><a href="lost.php">lost.php</a></li>
-    <li><a href="found.php">found.php</a></li>
-    <li><a href="about.php">about.php</a></li>
-  </ol>
+  
 
   <div class="container">
      
@@ -41,6 +52,7 @@
           </div>
           <div class="modal-body">
             <p>Enter Lost Item.</p>
+            <?php include "lost.php"?>
           </div>
           <div class="modal-footer">
             <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -60,6 +72,7 @@
           </div>
           <div class="modal-body">
             <p>Enter Found Item.</p>
+            <?php include "found.php"?>
           </div>
           <div class="modal-footer">
             <button type="button2" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -133,6 +146,9 @@ map.on('mousemove', function (e) {
        // e.lngLat is the longitude, latitude geographical position of the event
        JSON.stringify(e.lngLat);
    });
+   
+ 
+
 </script>
 
 
