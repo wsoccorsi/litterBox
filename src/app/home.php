@@ -66,6 +66,9 @@
     </div>
     
   </div>
+  </body>
+  
+  <body>
   <div id='map' style='width: 960px; height: 600px ; margin-left: .05%'></div>
         <pre id='info'></pre>
 <script>
