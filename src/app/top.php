@@ -2,5 +2,5 @@
     
 <?php ?>
 
-<p>This is top.php</p>
+<TITLE>This is top.php</TITLE>>
 
