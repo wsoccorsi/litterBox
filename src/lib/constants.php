@@ -1,5 +1,5 @@
 <?php
-define('DATABASE_NAME', 'BBEAUDIN_final');
+define('DATABASE_NAME', 'BBEAUDIN_codefest');
 define('DATABASE_READER', 'bbeaudin_reader');
 define('DATABASE_READER_PWD', 'r');
 define('DATABASE_WRITER_PWD', 'w');
