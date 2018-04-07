@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
     
 <?php ?>
-
-<TITLE>This is top.php</TITLE>>
+<link rel="stylesheet" href="../css/custom.css" type="text/css">
+    
+<TITLE>litterBox</TITLE>
 
