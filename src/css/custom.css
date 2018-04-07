@@ -8,20 +8,20 @@
     CSS for lab 2 and lab 3
 */
 
-body {
-    }
 
-p {
-    font-family: "Comic Sans MS","Arial"; }
-
+ol a{
+    list-style-type: none;
+    display: inline;
+}
 h1 {
-    font-family: "Comic Sans MS", "Arial";
+    font-family: Arial, Helvetica, sans-serif;
     background-color: green;
     color: #8c2f6b;
     padding-top: 50px;
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+    text-align: center;
    
 }  
 
