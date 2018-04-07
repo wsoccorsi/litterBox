@@ -1,4 +1,6 @@
-<!DOCTYPE HTML>
+<?php  include "top.php"; ?>
+
+
 <HTML lang="en">
 
     <head>
@@ -13,3 +15,5 @@
         <p>This is the beginning of a great lost and found project.</p>
     </body>
 </html>
+
+<?php include "footer.php"; ?>
